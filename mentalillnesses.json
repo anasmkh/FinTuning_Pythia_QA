@@ -1,0 +1,127 @@
+[
+    {
+        "question": "What is depression?",
+        "answer": "Depression is a common mental disorder characterized by persistent sadness and a lack of interest or pleasure in previously rewarding or enjoyable activities."
+    },
+    {
+        "question": "What are the symptoms of anxiety disorders?",
+        "answer": "Symptoms of anxiety disorders include excessive worry, restlessness, fatigue, difficulty concentrating, irritability, muscle tension, and sleep disturbances."
+    },
+    {
+        "question": "What is schizophrenia?",
+        "answer": "Schizophrenia is a severe mental disorder that affects how a person thinks, feels, and behaves, characterized by delusions, hallucinations, and disorganized speech."
+    },
+    {
+        "question": "What is bipolar disorder?",
+        "answer": "Bipolar disorder is a mental illness marked by extreme mood swings that include emotional highs (mania or hypomania) and lows (depression)."
+    },
+    {
+        "question": "What is obsessive-compulsive disorder (OCD)?",
+        "answer": "OCD is a mental disorder characterized by recurrent, unwanted thoughts (obsessions) and/or repetitive behaviors (compulsions)."
+    },
+    {
+        "question": "What causes post-traumatic stress disorder (PTSD)?",
+        "answer": "PTSD is caused by experiencing or witnessing a traumatic event, such as a natural disaster, serious accident, terrorist act, war/combat, or rape."
+    },
+    {
+        "question": "What are eating disorders?",
+        "answer": "Eating disorders are serious conditions related to persistent eating behaviors that negatively impact your health, emotions, and ability to function in important areas of life."
+    },
+    {
+        "question": "What is anorexia nervosa?",
+        "answer": "Anorexia nervosa is an eating disorder characterized by an abnormally low body weight, intense fear of gaining weight, and a distorted perception of weight."
+    },
+    {
+        "question": "What is bulimia nervosa?",
+        "answer": "Bulimia nervosa is an eating disorder marked by binge eating followed by methods to avoid weight gain such as vomiting (purging), fasting, or excessive exercise."
+    },
+    {
+        "question": "What is attention-deficit/hyperactivity disorder (ADHD)?",
+        "answer": "ADHD is a chronic condition that affects millions of children and often continues into adulthood. It includes a combination of persistent problems, such as difficulty sustaining attention, hyperactivity, and impulsive behavior."
+    },
+    {
+        "question": "What is autism spectrum disorder (ASD)?",
+        "answer": "ASD is a developmental disorder that affects communication and behavior, with symptoms that generally appear in the first two years of life."
+    },
+    {
+        "question": "What are personality disorders?",
+        "answer": "Personality disorders are a group of mental illnesses characterized by enduring maladaptive patterns of behavior, cognition, and inner experience, exhibited across many contexts and deviating markedly from those accepted by the individual's culture."
+    },
+    {
+        "question": "What is borderline personality disorder (BPD)?",
+        "answer": "BPD is a mental disorder characterized by unstable moods, behavior, and relationships. People with BPD may experience intense episodes of anger, depression, and anxiety."
+    },
+    {
+        "question": "What is antisocial personality disorder (ASPD)?",
+        "answer": "ASPD is a mental disorder in which a person consistently shows no regard for right and wrong and ignores the rights and feelings of others."
+    },
+    {
+        "question": "What is histrionic personality disorder?",
+        "answer": "Histrionic personality disorder is characterized by a pattern of excessive attention-seeking behaviors, usually beginning in early adulthood, including inappropriate seduction and an excessive desire for approval."
+    },
+    {
+        "question": "What is narcissistic personality disorder (NPD)?",
+        "answer": "NPD is a disorder characterized by a long-term pattern of abnormal behavior where people have an inflated sense of their own importance, a deep need for admiration, and a lack of empathy for others."
+    },
+    {
+        "question": "What is dissociative identity disorder (DID)?",
+        "answer": "DID, formerly known as multiple personality disorder, is a severe form of dissociation, a mental process which produces a lack of connection in a person's thoughts, memory, and sense of identity."
+    },
+    {
+        "question": "What is generalized anxiety disorder (GAD)?",
+        "answer": "GAD is a mental disorder characterized by chronic and excessive worry about a number of different things, such as personal health, work, social interactions, and everyday routine life circumstances."
+    },
+    {
+        "question": "What is social anxiety disorder (social phobia)?",
+        "answer": "Social anxiety disorder is a chronic mental health condition in which social interactions cause irrational anxiety, fear, self-consciousness, and embarrassment."
+    },
+    {
+        "question": "What is panic disorder?",
+        "answer": "Panic disorder is a type of anxiety disorder characterized by recurrent unexpected panic attacks, which are sudden periods of intense fear that may include palpitations, sweating, and feelings of impending doom."
+    },
+    {
+        "question": "What is insomnia?",
+        "answer": "Insomnia is a sleep disorder where people have trouble sleeping. It can involve difficulty falling asleep, staying asleep, or waking up too early and not being able to get back to sleep."
+    },
+    {
+        "question": "What is seasonal affective disorder (SAD)?",
+        "answer": "SAD is a type of depression that's related to changes in seasons, usually starting in the fall and continuing into the winter months, sapping your energy and making you feel moody."
+    },
+    {
+        "question": "What is a phobia?",
+        "answer": "A phobia is an overwhelming and debilitating fear of an object, place, situation, feeling, or animal. Phobias are more pronounced than fears and are generally classified as a type of anxiety disorder."
+    },
+    {
+        "question": "What is a somatic symptom disorder?",
+        "answer": "Somatic symptom disorder involves having a significant focus on physical symptoms, such as pain or fatigue, to the point that it causes major emotional distress and problems functioning."
+    },
+    {
+        "question": "What is conversion disorder?",
+        "answer": "Conversion disorder is a mental condition in which a person has blindness, paralysis, or other nervous system (neurologic) symptoms that cannot be explained by medical evaluation."
+    },
+    {
+        "question": "What is hypochondriasis?",
+        "answer": "Hypochondriasis, also known as illness anxiety disorder, is characterized by a preoccupation with having or acquiring a serious illness despite having no, or only mild, physical symptoms."
+    },
+    {
+        "question": "What is body dysmorphic disorder (BDD)?",
+        "answer": "BDD is a mental disorder characterized by an obsessive focus on a perceived flaw in physical appearance, which is often minor or not observable to others."
+    },
+    {
+        "question": "What is dementia?",
+        "answer": "Dementia is a general term for a decline in mental ability severe enough to interfere with daily life, characterized by memory loss, communication problems, and impaired reasoning."
+    },
+    {
+        "question": "What is Alzheimer's disease?",
+        "answer": "Alzheimer's disease is a progressive neurodegenerative disorder that causes memory loss, language problems, and other cognitive impairments."
+    },
+    {
+        "question": "What is Parkinson's disease?",
+        "answer": "Parkinson's disease is a neurodegenerative disorder that affects predominantly dopamine-producing neurons in a specific area of the brain, leading to symptoms like tremors, stiffness, and difficulty with balance and coordination."
+    },
+    {
+        "question": "What is Huntington's disease?",
+        "answer": "Huntington's disease is a genetic disorder that causes the progressive breakdown of nerve cells in the brain, affecting movement, cognition, and emotions."
+    }
+]
+
